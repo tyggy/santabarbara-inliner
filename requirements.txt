@@ -2,3 +2,5 @@ streamlit
 requests
 beautifulsoup4
 inlinestyler
+lxml>=4.9.2
+cssselect>=1.2.0
