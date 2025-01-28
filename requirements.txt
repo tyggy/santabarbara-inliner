@@ -1,6 +1,4 @@
-streamlit>=1.33.0
-requests>=2.31.0
-beautifulsoup4>=4.12.3
-inlinestyler==0.2.1  # Critical version fix
-lxml==5.2.1
-cssselect==1.2.0
+streamlit 
+requests 
+beautifulsoup4 
+premailer
